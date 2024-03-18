@@ -48,7 +48,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. Any extra works that you made and why it is important to.
 ## Pagination is been added cause it may fix the conflict if there's more then 100 data
-![alt text](image.png)
+![alt text](<Images/Screenshot 2024-03-19 at 12.35.30 AM.png>)
 
 2. Setup instructions, but not limited to required system requirements.
 ## Add JEST for babel 
@@ -63,7 +63,7 @@ Bonus Points
 4. Using a CSS Preprocessor for your style engine is preferred.
 
 UI for above
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
+![alt text](<Images/Screenshot 2024-03-19 at 12.35.30 AM.png>)
+![alt text](<Images/Screenshot 2024-03-19 at 1.12.32 AM.png>) 
+![alt text](<Images/Screenshot 2024-03-19 at 1.12.22 AM.png>) 
+![alt text](<Images/Screenshot 2024-03-19 at 1.12.01 AM.png>)
