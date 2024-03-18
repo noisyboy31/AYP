@@ -48,7 +48,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 1. Any extra works that you made and why it is important to.
 ## Pagination is been added cause it may fix the conflict if there's more then 100 data
-![alt text](<Images/Screenshot 2024-03-19 at 12.35.30 AM.png>)
+<img width="1434" alt="Screenshot 2024-03-19 at 12 35 30 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/2b4cdce4-6d7e-4aa6-970b-04e3fca31e4c">
+
 
 2. Setup instructions, but not limited to required system requirements.
 ## Add JEST for babel 
@@ -63,5 +64,12 @@ Bonus Points
 4. Using a CSS Preprocessor for your style engine is preferred.
 
 UI for above
-<img width="1435" alt="Screenshot 2024-03-19 at 1 12 01 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/98878e9f-7f96-4d13-bb08-0cadfe6ffdf7">
+<img width="1440" alt="Screenshot 2024-03-19 at 1 13 35 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/52b6625c-3c86-45b9-a5e2-85432c6b80bc">
+<img width="1433" alt="Screenshot 2024-03-19 at 1 12 32 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/862f1014-42d0-44f0-895e-57f79e7c01d4">
+<img width="1431" alt="Screenshot 2024-03-19 at 1 12 22 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/bb4e9d91-0917-4df9-8ebe-83e4ab776ddb">
+<img width="1435" alt="Screenshot 2024-03-19 at 1 12 01 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/ab4e7a83-082b-4bba-b683-4feb7985fb93">
+
+
+
+
 
