@@ -44,3 +44,26 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+1. Any extra works that you made and why it is important to.
+## Pagination is been added cause it may fix the conflict if there's more then 100 data
+![alt text](image.png)
+
+2. Setup instructions, but not limited to required system requirements.
+## Add JEST for babel 
+
+3. Overview of React components created and why you design them in such a way.
+## Too look more compatible 
+
+Bonus Points
+1. Implementation using React Hooks is preferred.
+2. Using Redux as your state management is a plus.
+3. Written test cases for the components are a big plus.
+4. Using a CSS Preprocessor for your style engine is preferred.
+
+UI for above
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
