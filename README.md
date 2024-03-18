@@ -63,7 +63,5 @@ Bonus Points
 4. Using a CSS Preprocessor for your style engine is preferred.
 
 UI for above
-![alt text](<Images/Screenshot 2024-03-19 at 12.35.30 AM.png>)
-![alt text](<Images/Screenshot 2024-03-19 at 1.12.32 AM.png>) 
-![alt text](<Images/Screenshot 2024-03-19 at 1.12.22 AM.png>) 
-![alt text](<Images/Screenshot 2024-03-19 at 1.12.01 AM.png>)
+<img width="1435" alt="Screenshot 2024-03-19 at 1 12 01 AM" src="https://github.com/noisyboy31/AYP/assets/26429123/98878e9f-7f96-4d13-bb08-0cadfe6ffdf7">
+
